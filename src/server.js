@@ -10,7 +10,7 @@ const logger = (req, res, next) => {
 };
 
 const handleHome = (req, res) => {
-  return res.send("I love middlewares");
+  return res.send("I like middlewares");
 };
 
 app.get("/", logger, handleHome);
