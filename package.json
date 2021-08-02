@@ -17,11 +17,10 @@
   "homepage": "https://github.com/erionRK621/wetube-reloaded#readme",
   "dependencies": {
     "express": "^4.17.1"
-  },
   "devDependencies": {
     "@babel/core": "^7.14.8",
-    "@babel/node": "^7.14.9",
-    "@babel/preset-env": "^7.14.9",
+    "@babel/node": "^7.14.7",
+    "@babel/preset-env": "^7.14.8",
     "nodemon": "^2.0.12"
   }
 }
