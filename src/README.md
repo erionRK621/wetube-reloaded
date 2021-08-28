@@ -1,5 +1,3 @@
-Wetube Reloaded
-
 / -> Home
 /join -> Join
 /login -> Login
@@ -13,4 +11,3 @@ Wetube Reloaded
 /videos/delete -> Delete Video
 /videos/comments -> Comment on a video
 /videos/comments/delete -> Delete A
-videos/comments/delete -
