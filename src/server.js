@@ -1,4 +1,5 @@
 import express from "express";
+import morgan from "morgan";
 
 const PORT = 4000;
 
@@ -30,4 +31,4 @@ app.use("/users", userRouter);
 
 const handleListening = () =>
   console.log(`✅ Server listenting on port http://localhost:${PORT} 🚀`);
-ß;
+app.listen(PORT, handleListening);
